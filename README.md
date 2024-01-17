@@ -1,3 +1,3 @@
-##GitHub de LEGRAND Alexandre
+## GitHub de LEGRAND Alexandre
 
 Etudiant en BUT Informatique à l'Université de Lille.
