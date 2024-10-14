@@ -1,1 +1,1 @@
-Cette SAE consistait à rendre une version d'un livrable par semaine. L'objectif final était de générer un site internet à partir d'un algorithme iJava et de fichier .txt contenant les différentes données souhaitées.
+Cette SAE consistait à rendre une version d'un livrable par semaine. L'objectif final était de générer un site internet à partir d'un algorithme iJava (langage dérivé du Java imaginé par un professeur) et de fichier .txt contenant les différentes données souhaitées.
